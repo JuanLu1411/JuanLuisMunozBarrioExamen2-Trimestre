@@ -1,0 +1,33 @@
+.elemento{
+    border-bottom: 1px solid black;
+    margin: 2%;
+}
+.masInfo{
+    display: flex;
+    color: #0071DA;
+}
+
+.btn-primary {
+    position: absolute;
+    top: 40px;
+    margin-right: 2%;
+    color: white;
+    background-color: #0071DA;
+    padding: 0 2%;
+    border-radius: 5px;
+}
+
+.tarjeta{
+    margin-right: 2%;
+    color: white;
+    background-color: #0071DA;
+    padding: 0 2%;
+    border-radius: 5px;
+}
+#mapa{
+    height: 100vh;
+}
+.listado{
+    height: 100vh;
+    overflow-y: scroll;
+}
